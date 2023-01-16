@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AcademicProject</string>
+    <string name="API_KEY">47c5d14a75c645988221b3ce3d5a17af</string>
+    <string name="BASE_URL">https://newsapi.org/</string>
+    <string name="author">Yazar</string>
+    <string name="article">Makale</string>
+</resources>
